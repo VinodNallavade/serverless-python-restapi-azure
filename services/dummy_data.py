@@ -16,7 +16,7 @@ data = {
         "id": 3,
         "task": 'task3',
         "assignee": 'assignee1002',
-        "status": 'completed'
+        "status": 'WIP'
       },
       {
         "id": 4,
