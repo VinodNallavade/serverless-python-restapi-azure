@@ -10,7 +10,7 @@ data = {
         "id": 2,
         "task": 'task2',
         "assignee": 'assignee1001',
-        "status": 'completed'
+        "status": 'Progress'
       },
       {
         "id": 3,
