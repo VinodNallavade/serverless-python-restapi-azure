@@ -4,7 +4,7 @@ data = {
         "id": 1,
         "task": 'task1',
         "assignee": 'assignee1000',
-        "status": 'completed'
+        "status": 'Progress'
       },
       {
         "id": 2,
